@@ -4,12 +4,12 @@
 
 **Performance Engineer at Mozilla Firefox · Mozilla Firefox 性能工程师**
 
-Hi, I'm Chutian (Sky) Ning, a Performance Engineer at Mozilla Firefox and a longtime aviation enthusiast with over 15 years of flight simulation experience.
+Hi, I'm Chutian (Sky) Ning, a Performance Engineer at [Mozilla](https://www.mozilla.org/) [Firefox](https://www.firefox.com/) and a longtime aviation enthusiast with over 15 years of flight simulation experience.
 
 I work on Firefox performance, including:
 
-- Background Hang Reporter (BHR) augmentation
-- Speedometer 3 optimization
+- Background Hang Reporter (BHR) augmentation, now called [HangTime](https://skylarkning.github.io/HangTime/#/top-hangs)
+- [Speedometer 3](https://browserbench.org/Speedometer3.0/) optimization
 - Firefox networking performance optimization, including Speculation Rules
 - Firefox for Android (Fenix) performance
 - Anything else in Firefox that catches my attention
