@@ -2,7 +2,7 @@
 
 # About Me · 关于我
 
-**Performance Engineer at Mozilla Firefox · Mozilla Firefox 性能工程师** [LinkedIn](https://www.linkedin.com/in/chutian-ning/)
+**Performance Engineer at Mozilla Firefox · Mozilla Firefox 性能工程师**
 
 Hi, I'm Chutian (Sky) Ning, a Performance Engineer at Mozilla Firefox and a longtime aviation enthusiast with over 15 years of flight simulation experience.
 
