@@ -31,7 +31,7 @@ Some of my work in the flight simulation industry, from software development to 
 An interactive dashboard for exploring Firefox hang data, inspecting stacks, and sharing findings.  
 
 **[Speculation Rules Testbench](https://github.com/skylarkning/Speculation-Rules-Testbench)**  
-A testbench and DevTools extension for investigating speculative loading in Firefox. [Try the lab →](https://skylarkning.github.io/Speculation-Rules-Testbench/)  
+A testbench and DevTools extension for investigating speculative loading in Firefox. [Try the lab →](https://addons.mozilla.org/en-CA/firefox/addon/speculation-rules-testbench/)  
 
 **[TaxiNow](https://github.com/skylarkning/TaxiNow-Release)**  
 A ground-navigation map for Microsoft Flight Simulator 2020/2024, with live aircraft positioning and detailed airport taxiway information.  
