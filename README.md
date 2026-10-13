@@ -1,12 +1,10 @@
 ![Chutian (Sky) Ning | Performance Engineer | Aviation Enthusiast, with sequenced approach lights and animated Firefox flames](github-banner-chutian-sky-ning.gif)
 
-# Sky Ning
+# About Me · 关于我
 
 **Performance Engineer at Mozilla Firefox · Mozilla Firefox 性能工程师**
 
-[LinkedIn](https://www.linkedin.com/in/chutian-ning/) · [GitHub](https://github.com/skylarkning)
-
-### About Me · 关于我
+[LinkedIn](https://www.linkedin.com/in/chutian-ning/)
 
 Hi, I'm Chutian (Sky) Ning, a Performance Engineer at Mozilla Firefox and a longtime aviation enthusiast with over 15 years of flight simulation experience.
 
