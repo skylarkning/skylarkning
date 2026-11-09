@@ -11,7 +11,7 @@ Hi, I'm Chutian (Sky) Ning, a Performance Engineer at [Mozilla](https://www.mozi
 I work on Firefox performance, including:
 
 - Background Hang Reporter (BHR) augmentation, now called [HangTime](https://skylarkning.github.io/HangTime/#/top-hangs)
-- [Speedometer 3](https://browserbench.org/Speedometer3.0/) optimization
+- [Speedometer 3](https://browserbench.org/Speedometer3.1/) optimization
 - Firefox networking performance optimization, including Speculation Rules
 - Firefox for Android (Fenix) performance
 - Anything else in Firefox that catches my attention
